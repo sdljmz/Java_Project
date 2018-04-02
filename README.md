@@ -1,5 +1,8 @@
 # Java_Project
 Java项目1.文件关于数据库的上传和下载
+
+使用Netbeans开发 
+
 主要用到JDBC 序列化 输入输出流
 
 run:
